@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  event.cpp
+  game.cpp
+C:\temp\MiniChess\MiniChess\game.cpp(15,125): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(17,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(18,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(19,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(32,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(33,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(34,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(35,108): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(37,129): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(39,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(85,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\temp\MiniChess\MiniChess\game.cpp(90,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(97,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\temp\MiniChess\MiniChess\game.cpp(107,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\temp\MiniChess\MiniChess\game.cpp(108,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  32 of 343 functions ( 9.3%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MiniChess.vcxproj -> C:\temp\MiniChess\bin\MiniChess.exe
